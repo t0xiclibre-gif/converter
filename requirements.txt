@@ -1,0 +1,5 @@
+yt-dlp[default]
+imageio-ffmpeg
+deno
+curl_cffi
+tkinterdnd2
